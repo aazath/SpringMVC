@@ -1,0 +1,17 @@
+package lk.ccs.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class FirstApp {
+	
+	@RequestMapping("/")
+	public ModelAndView displayMessage() {
+		ModelAndView mView = new ModelAndView();
+		mView.addObject("message", "First Application...");
+		mView.setViewName("index");
+		return mView;
+	}
+}

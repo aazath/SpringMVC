@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+/Users/aazath/Documents/sts/SpringMVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3452375324.index
+/01-SpringmVC/src/main/java
+/Users/aazath/Documents/sts/SpringMVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2141850792.index
+/01-SpringWebMVC/src/main/java
