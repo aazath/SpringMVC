@@ -7,6 +7,8 @@ INDEX VERSION 1.132
 /03-SpringMVC-DataTransfer/src/main/java
 /Users/aazath/Documents/sts/SpringMVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3532292266.index
 /04-SpringWebMVC/src/main/java
+/Users/aazath/Documents/sts/SpringMVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/676703534.index
+/04-SpringMVC-PathVariable/src/main/java
 /Users/aazath/Documents/sts/SpringMVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3452375324.index
 /01-SpringmVC/src/main/java
 /Users/aazath/Documents/sts/SpringMVC/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2141850792.index
